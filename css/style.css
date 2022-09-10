@@ -1,0 +1,33 @@
+h1 {
+    color: green;
+}
+
+a {
+    color: brown;
+}
+
+.mine {
+    color: aqua;
+}
+
+#Motor1 {
+    color: blueviolet;
+}
+
+p.chapter {
+    color: blue;
+}
+
+.chapter.lesson {
+    color: brown;
+}
+
+.words p{
+    color: green;
+}
+
+.text > p {
+    color: brown;
+}
+
+
